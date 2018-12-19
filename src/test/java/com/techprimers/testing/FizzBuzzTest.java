@@ -11,7 +11,7 @@ class FizzBuzzTest {
         fB = new FizzBuzz();
     }
 
-    @DisplayName("Play FizzBuzz with number = 1  sad")
+    @DisplayName("Play FizzBuzz with number = 1")
     @Test
     public void testNumber() {
         String fizzBuzz = fB.play(1);
