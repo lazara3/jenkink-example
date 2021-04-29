@@ -8,3 +8,4 @@
 "\ncommit: jenkins-GitMultibranchCommitBranchTest-255" 
 "\ncommit: jenkins-GitMultibranchCommitBranchTest-256" 
 "\ncommit: jenkins-GitMultibranchCommitBranchTest-257" 
+"\ncommit: jenkins-GitMultibranchCommitBranchTest-258" 
